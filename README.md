@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Vardhan Darshan Gupta
 
 🎓 I am a **B.Tech Graduate** and a passionate full-stack developer with a strong foundation in backend development, cloud integration, and scalable architectures.  
-Currently contributing to impactful projects at **[Whatbytes](https://github.com/Whatbytes)**.
+Since Last 1 year contributing to impactful projects at **[Whatbytes](https://github.com/Whatbytes)**.
 
 ---
 
