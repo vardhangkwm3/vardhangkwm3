@@ -7,7 +7,9 @@ Since Last 1 year contributing to impactful projects at **[Whatbytes](https://gi
 
 ### 🏢 Organization
 
-- 🚀 **[Whatbytes](https://github.com/Whatbytes)** – A tech-driven company where I actively contribute to innovative solutions and large-scale systems.
+- 🚀 **[Widgetkraft](https://github.com/Whatbytes)** – Unified Web Operating Layer for Support and Engagement.
+- 🚀 **[Treabrolabs](https://github.com/Whatbytes)** – A AI automation company helping founders automate their business operations, along with custom softwares.
+- 🚀 **Ex - [Whatbytes](https://github.com/Whatbytes)** – A tech-driven company where I actively contributed to innovative solutions and large-scale systems.
 
 ---
 
