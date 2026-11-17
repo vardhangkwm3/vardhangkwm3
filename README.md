@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Vardhan Darshan Gupta
 
 🎓 I am a **B.Tech Graduate** and a passionate full-stack developer with a strong foundation in backend development, cloud integration, and scalable architectures.  
-Since Last 2 year I've been contributing to impactful projects at **[Reportgen Inc](https://github.com/ReportGen-Inc)** **[Whatbytes](https://github.com/Whatbytes)**.
+Since Last 2 year I've been contributing to impactful projects at **[Reportgen Inc](https://github.com/ReportGen-Inc)** & **[Whatbytes](https://github.com/Whatbytes)**.
 
 ---
 
