@@ -1,12 +1,13 @@
 ## 👋 Hi there, I'm Vardhan Darshan Gupta
 
 🎓 I am a **B.Tech Graduate** and a passionate full-stack developer with a strong foundation in backend development, cloud integration, and scalable architectures.  
-Since Last 1 year contributing to impactful projects at **[Whatbytes](https://github.com/Whatbytes)**.
+Since Last 2 year I've been contributing to impactful projects at **[Reportgen Inc](https://github.com/ReportGen-Inc)** **[Whatbytes](https://github.com/Whatbytes)**.
 
 ---
 
 ### 🏢 Organization
 
+- 🚀 **Reportgen** – Ai driven financial reporting SaaS company.
 - 🚀 **Widgetkraft** – Unified Web Operating Layer for Support and Engagement.
 - 🚀 **Treabrolabs** – A AI automation company helping founders automate their business operations, along with custom softwares.
 - 🚀 **Ex - [Whatbytes](https://github.com/Whatbytes)** – A tech-driven company where I actively contributed to innovative solutions and large-scale systems.
